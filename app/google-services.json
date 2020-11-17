@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "14993320001",
+    "firebase_url": "https://fir-notifications-dc255.firebaseio.com",
+    "project_id": "fir-notifications-dc255",
+    "storage_bucket": "fir-notifications-dc255.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14993320001:android:d5739cba3d79d288233ec0",
+        "android_client_info": {
+          "package_name": "com.enestekin.firebasenotifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "14993320001-107afca9sch77akcl772e5qsumgb1ck2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbzWubDsURP6jNqXyJMp7D9X8lXKzib4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "14993320001-107afca9sch77akcl772e5qsumgb1ck2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
